@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dozen of principall points fit for every honest Englishman's wearing.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81718</idno>
+            <idno type="STC">Wing D2115</idno>
+            <idno type="STC">Thomason E431_28</idno>
+            <idno type="STC">ESTC R206122</idno>
+            <idno type="EEBO-CITATION">99865301</idno>
+            <idno type="PROQUEST">99865301</idno>
+            <idno type="VID">161521</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81718)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161521)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E431[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dozen of principall points fit for every honest Englishman's wearing.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "March. 13 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Providence and government of God --  Early works to 1800.</term>
+               <term>Divine right of kings --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:161521:1"/>
+            <head>A DOZEN OF PRINCIPALL POINTS. fit for every honeſt <hi>Engliſhman's</hi> wearing.</head>
+            <p n="1">I. <seg rend="decorInit">G</seg>OD is the Originall fountaine of all power, Therefore, every juſt power derives from God, Therefore no power is juſt that cannot derive from God.</p>
+            <p n="2">II. Every juſt power is derived from God by juſt meanes.</p>
+            <p>Noe meanes is juſt, (or <hi>can Iuſtifie an ordinary con<g ref="char:EOLhyphen"/>tinuing</hi> power) but the Commiſſion given by Gods will revealed in his Word.</p>
+            <p>Therefore every (<hi>ordinary continued</hi>) power that hath not ſuch Commiſſion is unjuſt.</p>
+            <p n="3">III. Wee are not bound by Gods Law to obey the power of Man, ſave onely when it is the power of God committed to his diſpenſation by the direct Or<g ref="char:EOLhyphen"/>dinance of God (<hi>and then it is ſaid, to be for Gods ſake, and for Conſcience ſake.</hi>)</p>
+            <pb n="2" facs="tcp:161521:2" rendition="simple:additions"/>
+            <p>Whoſoever demands, or exacts obedience from man, not having ſuch a Commiſſion, is an Vſurper, an Vnjuſt perſon, the Childe of Rebellion.</p>
+            <p>Therefore neither ought any man without ſuch commiſsion to aſſume ſuch a power (<hi>upon the paines by St. Jude</hi> rehearſed) neither is any man bound to o<g ref="char:EOLhyphen"/>bey ſuch an uſurped power (<hi>but on the contrary wee are bound to deteſt, at leaſt not to converſe with ſuch, For, he that ſayth but Good ſpeed to ſuch ungodly procee<g ref="char:EOLhyphen"/>dings becomes partaker of their Sinne.</hi> Which well a<g ref="char:EOLhyphen"/>grees with that of Solomon, <hi>My Sonne feare God and the King, and meddle not with them that are given to change, for their deſtruction draweth nie.</hi> &amp;c.)</p>
+            <p n="4">IIII Wee can no way honor God, ſo much as by obedi<g ref="char:EOLhyphen"/>ence [<hi>Firſt to himſelfe) 2. To that power and perſon he hath ſet over us.</hi>
+            </p>
+            <p>We can no way diſhonor God, more then by diſ<g ref="char:EOLhyphen"/>obedience (<hi>in both theſe Caſes</hi>)</p>
+            <p>Therefore whoſoever obeyes not the Lawfull Ma<g ref="char:EOLhyphen"/>giſtrate (<hi>as being ſet ever us by God's Ordinances</hi>) di<g ref="char:EOLhyphen"/>ſhonors God, and denies him one principall part of his honor, and our dutie.</p>
+            <p n="5">V As to deny God his due is ſacraledge, ſo to give God's due to man [<hi>without his appointment</hi>] is idola<g ref="char:EOLhyphen"/>try.</p>
+            <p>Whoſoever gives obedience to man that God hath not authorized gives God's due to another (<hi>and ſure<g ref="char:EOLhyphen"/>ly God is a iealous God and will not give his honor to any
+<pb n="3" facs="tcp:161521:2"/> other nor will he hold him guiltleſs that dares do ſo with<g ref="char:EOLhyphen"/>out his Warrant.</hi>
+            </p>
+            <p>Therefore he that uſurps or aſſumes ſuch an unwar ranted power, is ſacralegious, and he that obeyes is his acceſſary, and an Idolater.</p>
+            <p n="6">VI The perſons directly truſted by God with his power (and therefore to whom only we doe directly owe o<g ref="char:EOLhyphen"/>bedience] are theſe five, the Husband, the Father, the Maſter, the Preiſt, and the King. [<hi>And though this laſt the King,] be ſometimes called Judge, Captain, Prince, Patriarch, or the like, yet they all ſignifie the ſame image of Gods power given by God to thoſe perſons by his direct Commiſſion [Some being effectuall only, as Moſes, Gid<g ref="char:EOLhyphen"/>deon, Samuell, &amp;c.</hi> others both formall and effectu<g ref="char:EOLhyphen"/>all, as <hi>Saul</hi> and <hi>David, Ahaz</hi> and <hi>Hezekiah, Ma<g ref="char:EOLhyphen"/>naſſeh,</hi> and <hi>Joſiah, Nebuchadnezer, Cyrus</hi> and <hi>Ne<g ref="char:EOLhyphen"/>roe</hi> &amp;c.</p>
+            <p>There is no other continued power of what name, or nature ſoever can be by direct commiſſion derived from God's grant (<hi>nor any ſuch grant or commiſſion ſhewed, ſave what is ſubordinate and inferiour to theſe.</hi>
+            </p>
+            <p>Therefore theſe and only theſe are the powers au<g ref="char:EOLhyphen"/>thorized by God's direct commiſſion, to which we ow and muſt pay an active (or at leaſt a paſſive) obedi<g ref="char:EOLhyphen"/>ence. <hi>And the greateſt obedience to the greateſt power e<g ref="char:EOLhyphen"/>ver] &amp; we are not bound to any or either ſort of obedience to any other perſons or power whatſoever, but to abhorre and reſiſt the ſame as the power of Sathan and Anti<g ref="char:EOLhyphen"/>chriſt.</hi>
+            </p>
+            <p n="7">
+               <pb n="4" facs="tcp:161521:3"/> VII By vertue of the power given by God to the King, the King ordains other inferiour powers who have their Commiſsion from the King.</p>
+            <p>But as the King then forfeits his power to God that gave it, and to none other, when he renounces God, and makes himſelfe his enemy by flat Rebellion, Soe alſo thoſe powers made by the King, then ceaſe to have power, and forfeit it to the King that gave it, and to none other when they rebell againſt him, and make uſe of the power given by the King in a flat oppoſiti<g ref="char:EOLhyphen"/>on of the King.</p>
+            <p>Therefore no longer then they acknowledge the King's power to be juſt and ſuperiour, and their owne to be derived from him, and ſo inferiour, and there<g ref="char:EOLhyphen"/>fore their obedience to be neceſſary and humble, have they any more power, or owe we any more obedi<g ref="char:EOLhyphen"/>ence.</p>
+            <p n="8">VIII. (Next under <hi>God, and the King</hi>) all Eccleſiaſticall power is by Chriſt and his Apoſtles eſtabliſhed by a perpetuall ſucceſſion on the (Lawfully called) Prieſts or Miniſters of the Goſpell.</p>
+            <p>Noe humane power ought, neither can oppoſe the divine inſtitution, or demolliſh what Chriſt and his Apoſtles have erected. Therefore the Office it ſelfe (of A Biſhop, A Doctor, A Deacon, &amp;c.) is by direct Commiſſion derived from Chriſt and his Apoſtles, and ſo of divine right clearly, and the forme, and choiſe of the perſon is in the King as Gods Deputy, and therefore (at leaſt) of the beſt humane right that may be.</p>
+            <p n="9">
+               <pb n="5" facs="tcp:161521:3"/> IX. The heart of Man cannot be converted by any out<g ref="char:EOLhyphen"/>ward meanes, but only by the preaching of the Goſ<g ref="char:EOLhyphen"/>pell <hi>(for the Prieſts lips doe (or ſhould doe) both keepe and ſpeak knowledge.</hi>
+            </p>
+            <p>But how ſhall they preach if they be not ſent?</p>
+            <p>Therefore all that are the true Preiſts or Miniſters of God's Word, are ſent duly and viſibly, and he that is not viſibly and duly ſent is not the true Prieſt or Miniſter of God, <hi>(But as Nadab and Abihu preſump<g ref="char:EOLhyphen"/>tious, or as Korah and his complices ambitious, and A Rebell to the truth. If hee preach another Doctrine, though he ſeeme to be as an Angell of light, let him bee accurſed; If he ſeeme to be in the right, yet becauſe hee came not in by the Dore, (viz. Chriſt and his commiſſi<g ref="char:EOLhyphen"/>on) <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e is A Theife and ſhall ſurely come to nought, and all that follow him, ſince though hee may ſeeme to allow ſome truths at the preſent, it is but to allure to greater errors afterwards, as practiſing by the ſubtilty of Sathau that ſets all ſuch a <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ork to diſturb the true Church.</hi>
+            </p>
+            <p n="10">X. In no age ſince the Creation, hath it beene allowed to any people under the Sunne that did rightly know and were knowne of God; to chuſe their owne Go<g ref="char:EOLhyphen"/>vernour, or way of Government without firſt obtay<g ref="char:EOLhyphen"/>ning Gods viſible conſent.</p>
+            <p>For a people without any viſible commiſſion to do ſo, is not only to rebell againſt the preſent eſtabliſht Government and lawfull Authority of their Sove<g ref="char:EOLhyphen"/>raigne, but to oppoſe God and uſurp his power.</p>
+            <p>Therefore let noe people or Nation that pretends to feare or obey God once think of ſuch a courſe,
+<pb n="6" facs="tcp:161521:4"/> (leaſt happily) <hi>they be ſound to fight againſt God, &amp; that God ſet himſelfe to fight againſt that Nation, and ſo they periſh inevitably, eternally.</hi>
+            </p>
+            <p n="11">XI. If a Nation might chuſe their governour or way of government, yet could they not be innocent in reje<g ref="char:EOLhyphen"/>cting Gods way, and taking that of his Enemies.</p>
+            <p>But Monarchy is indeed the forme by God invented and ordained. And Ariſtocracie, Democracie, Anar<g ref="char:EOLhyphen"/>chy, &amp;c. was deviſed (at beſt by Philoſophers) by hea<g ref="char:EOLhyphen"/>thens, Gods Enemies.</p>
+            <p>Therefore to refuſe Monarchy (or the Government by one man as ſupream, which now is, and ſo many a<g ref="char:EOLhyphen"/>ges hath bin in this Kingdome eſtabliſhed (this being Gods way) and to ſet up Anarchy, or the like ſo new<g ref="char:EOLhyphen"/>ly thought of in this Nation by the Sons of <hi>Beliall,</hi> ſo repugnant to the very fundamental Lawes of this Na<g ref="char:EOLhyphen"/>tion (it being the Devills own way) were prophane and damnable.</p>
+            <p n="12">XII By all Lawes of God, Nature, or Nations, and by the principles of all governments under Heaven [eſpeci<g ref="char:EOLhyphen"/>ally of this Nation] That which requires the whole power to ſet it up, or eſtabliſh it, requires alſo the whole power to take it downe or revoake it, and both to be done in love, order, and peace.</p>
+            <p>But the Regall, the Epiſcopall, the Peerall, the mi<g ref="char:EOLhyphen"/>niſteriall powers, and functions, and the Booke of Common-Prayer were ſet up and eſtabliſhed by the
+<pb n="7" facs="tcp:161521:4"/> whole power of this Nation in love, order, and peace, and [ſo far as his maine power hath to do with them] could not have been otherwiſe eſtabliſhed.</p>
+            <p>But this (for it's pride and covetouſneſſe only, unpa<g ref="char:EOLhyphen"/>ralel'd pretended parliament, (the Kingdomes Maſters as they think) and this impudent, Independent, pre<g ref="char:EOLhyphen"/>ſumptious army, (I mean the greateſt part, &amp; perſons thereof, for as for many of the Common Souldiers, I rather pity their unhappy ignorance, and incline to pray that their eies may be opend to ſee the Kingdoms preſent, &amp; their own ſuceeding miſery (the Parlia<g ref="char:EOLhyphen"/>ments Maſters, as all men may plainly ſee) had no juſt beginning, wants, nay deſpiſes their Head the K. their Neck the Biſhops, their Shoulders the Nobility, the greater and better part of their bowells the Gentry e<g ref="char:EOLhyphen"/>ven of thoſe that are more truly members of that now ſo much Idolized Houſe of Commons, and of the people (their legges and feet) that make up the reſt of the Body Politique. And were never yet, (and now refuſes to be eſtabliſhed by the whole power of the Nation, in love Order, or peace, Nor will acknow<g ref="char:EOLhyphen"/>ledg any greater power but themſelves, nor any Cre<g ref="char:EOLhyphen"/>ator of their power, but that they have created one the other. And are therefore doubtleſſe ſuch monſters as this Nation never knew, nor heard of, till this preſent age.</p>
+            <p>Therefore the Kings power (as being ſupream leaſt of all) nor the Biſhops, nor the Nobilities (as ſubordinate to the Kings) nor that of thoſe juſt Parliaments, that have or ſhall know the way to preſerve, inviolate
+<pb n="8" facs="tcp:161521:5"/> their duty to theit God, their allegiance to their King, and their Love to their Country, cannot by any knowne Law of God or Man, be taken away, by ſuch an unjuſt, imperfect, pretended part of power in ma<g ref="char:EOLhyphen"/>lice, diſorder, and Warre.</p>
+            <p>
+               <hi>But on the contrary, let the <hi>King,</hi> and all that feare <hi>God</hi> and the <hi>King,</hi> truſt in <hi>God,</hi> and in the Aſſurance of his never failing promiſe [expect deliverance] that theſe (as Iannes and Iambres that with ſtood <hi>Moſes</hi>) ſhall proceed no further then God hath appointed, &amp; that then their folly ſhall be made manifeſt to all men: <hi>And let all faithfull Engliſh men ſay</hi> Amen.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
